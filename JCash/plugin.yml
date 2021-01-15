@@ -1,0 +1,7 @@
+name: JazzCash
+version: 1.0
+author: FelipeJMC
+description: RedeJazz Plugin
+main: br.com.jazzmc.Main
+commands:
+  cash:
